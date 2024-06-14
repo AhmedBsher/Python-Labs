@@ -1,0 +1,29 @@
+python was conceived in the late 1980s as a successor to the abc programming language . which was 
+inspired by setl . capable of exception handling and interfacing with the amoeba operating system. its 
+implementation began in december 1989. van rossum shouldered sole responsibility for the project . 
+as the lead developer. until 12 july 2018. when he announced his permanent vacation from his 
+responsibilities as python's benevolent dictator for life . a title the python community bestowed upon 
+him to reflect his long - term commitment as the project' s chief decision-maker. in january 2019 . 
+active python core developers elected a five-member steering council to lead the project . python 2.0 
+was released on 16 october 2000 . with many major new features such as list comprehensions .
+cycle-detecting garbage collection . reference counting . and unicode support. python 3.0 . released 
+on 3 december 2008 . with many of its major features backported to python 2.6.x and 2.7.x. releases 
+of python 3 include the 2to3 utility . which automates the translation of python 2 code to python 3. 
+python 2.Ts end-of-life was initially set for 2015 . then postponed to 2020 out of concern that a large 
+body of existing code could not easily be forward-ported to python 3. no further security patches or 
+other improvements will be released for it. currently only 3.8 and later are supported . in 2021 . 
+security updates were expedited . since all python versions were insecure because of security issues 
+leading to possible remote code execution and web-cache poisoning. in 2022 . python 3.10.4 and 
+3.9.12 were expedited and 3.8.13 . because of many security issues. when python 3.9.13 was 
+released in may 2022 . it was announced that the 3.9 series would only receive security fixes in the 
+future. on 7 september 2022 . four new releases were made due to a potential denial-of-service attack: 
+3.10.7 .
+3.9.14 . 3.8.14 . and 3.7.14. as of october 2023 . python 3.12 is the stable release . and 3.12 and 3.11 
+are the only versions with active support. notable changes in 3.11 from 3.10 include increased 
+program execution speed and improved error reporting . python 3.12 adds syntax to the language . the 
+new keyword type . and 3.11 for exception handling . and 3.10 the match and case keywords . for 
+structural pattern matching statements. python 3.12 also drops outdated modules and functionality . 
+and future versions will too . see below in development section . python 3.11 claims to be between 10 
+and 60% faster than python 3.10 . and python 3.12 adds another 5% on top of that. it also has 
+improved error messages . and many other changes. since 27 june 2023 . python 3.8 is the oldest 
+supported version of python. due to python 3.7 reaching end-of-life
