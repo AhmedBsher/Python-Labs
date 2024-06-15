@@ -34,7 +34,6 @@ except sqlite3.Error as error:
     if connection:
         connection.close()
 
-# New part to search for weather data by date
 try:
     database = "D:\\Coding\\Python Labs\\Lab 6\\NewDatabase.db"
     connection = sqlite3.connect(database)
