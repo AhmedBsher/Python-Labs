@@ -80,7 +80,7 @@ This repository is licensed under the MIT License.
 ### Contact
 For any questions or suggestions, feel free to reach out to me:
 
-- Email: ahmedbsher999@gmail.com
-- LinkedIn: Ahmed Bsher
-- Twitter: @ahmedbsher_
-- Website: My Portfolio(https://ahmedbsher.github.io/My-Portfolio/)
+- **Email:** ahmedbsher999@gmail.com
+- **LinkedIn:** [Ahmed Bsher](https://www.linkedin.com/in/ahmed-bsher-921242232)
+- **Twitter:** [@ahmedbsher_](https://twitter.com/ahmedbsher_)
+- **Website:** [ahmedbsher.github.io/My-Portfolio/](https://ahmedbsher.github.io/My-Portfolio/)
