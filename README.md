@@ -7,7 +7,6 @@ Welcome to the Python-Labs repository! This collection of Python scripts and pro
 
 - [Getting Started](#getting-started)
 - [Projects](#projects)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
